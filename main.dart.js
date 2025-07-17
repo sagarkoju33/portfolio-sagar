@@ -23136,7 +23136,7 @@ Ji:function Ji(a){this.a=a},
 apw(a,b,c,d,e){return new A.Hk(c,e)},
 Hk:function Hk(a,b){this.c=a
 this.e=b},
-asO(){var s=A.aD0("https://api-portfolio-hu8b.onrender.com/api/portfolio",A.cJ(0,0,10),A.cJ(0,0,15)),r=new A.Z0($,new A.Iv(A.b([B.A6],t.i6)),$,new A.a0F(51200),!1)
+asO(){var s=A.aD0("https://kojusagar.com.np/api/portfolio",A.cJ(0,0,10),A.cJ(0,0,15)),r=new A.Z0($,new A.Iv(A.b([B.A6],t.i6)),$,new A.a0F(51200),!1)
 r.Pg$=s
 r.Ph$=new A.WX(A.aI(t.m))
 return new A.Fn(r)},
